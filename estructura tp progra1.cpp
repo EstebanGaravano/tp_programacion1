@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-#define ARCHIVO "autos.txt"
 
 // ESTRUCTURA
 typedef struct {
